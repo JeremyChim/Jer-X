@@ -6,6 +6,7 @@
 - 学会了QT-Designer中保存的.ui 转成.py
 - 学会了PyQt5的按钮绑定function
 - 学会了获取QLineEdit的文本内容
+- 学会了LindEdit里的明文加密
 - 正在探索qt-desginer的使用
 
 2023.08.25
