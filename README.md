@@ -1,9 +1,9 @@
 # Jer-X
 🍗🍔🍟🍠🍓🤣🤪😍🤩💯✅🍕🥳✈🌭😆😃🥓🧂🍿🥂
 
-# 2023.08.26
+2023.08.26
 - 学会了pyqt5的安装及基本使用
-- 学会了.ui 转成.py
+- 学会了QT-Designer中保存的.ui 转成.py
 - 学会了PyQt5的按钮绑定function
 - 学会了获取QLineEdit的文本内容
 - 正在探索qt-desginer的使用
